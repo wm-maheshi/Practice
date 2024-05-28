@@ -1,4 +1,4 @@
 # Practice
 
-just a demo
+just a demo\n
 changed!
